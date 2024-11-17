@@ -60,3 +60,10 @@ button {
     font-size: var(--font-small);
     font-weight: 600;
 }
+.errors {
+    margin: 0.5rem 0rem ;
+    color: var(--color-red);
+    font-size: var(--font-smallz);
+    font-weight: 400;
+    z-index: 1000;
+}
